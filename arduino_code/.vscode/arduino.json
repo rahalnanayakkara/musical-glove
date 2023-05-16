@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "sketch": "arduino_test\\arduino_test.ino",
+    "port": "COM7",
+    "output": "../build"
+}
